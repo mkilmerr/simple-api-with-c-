@@ -1,0 +1,14 @@
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\bin\Debug\netcoreapp2.2\crud.deps.json
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\bin\Debug\netcoreapp2.2\crud.runtimeconfig.json
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\bin\Debug\netcoreapp2.2\crud.runtimeconfig.dev.json
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\bin\Debug\netcoreapp2.2\crud.dll
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\bin\Debug\netcoreapp2.2\crud.pdb
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.csprojAssemblyReference.cache
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.csproj.CoreCompileInputs.cache
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.RazorAssemblyInfo.cache
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.RazorAssemblyInfo.cs
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.AssemblyInfoInputs.cache
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.AssemblyInfo.cs
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.RazorTargetAssemblyInfo.cache
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.dll
+C:\Users\MKilmer\Desktop\linguagens\c#\crud\obj\Debug\netcoreapp2.2\crud.pdb
